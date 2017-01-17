@@ -2,7 +2,11 @@
 
 hello
 
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> featurel
 
 welcome
 
